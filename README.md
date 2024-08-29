@@ -1,0 +1,1 @@
+# Pemodelan-Citra-Malam-untuk-Estimasi-Indeks-Kesulitan-Geografis-IKG-di-Kabupaten-Lampung-Selatan
