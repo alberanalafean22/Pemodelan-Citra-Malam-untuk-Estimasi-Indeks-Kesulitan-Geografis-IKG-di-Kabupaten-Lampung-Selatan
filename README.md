@@ -1,3 +1,8 @@
+![ww](https://github.com/user-attachments/assets/404d789d-dc1b-49b3-9915-09479a5ccb90)
+
+
+
+
 # Pemodelan-Citra-Malam-untuk-Estimasi-Indeks-Kesulitan-Geografis-IKG-di-Kabupaten-Lampung-Selatan
 
 
@@ -17,8 +22,19 @@ Sumber Data :
 
 Tahapan
 *   Preprocessing Data
+      *   Clip Raster
+      *   Kalkulasi Intensitas raster VIIRS
+      *   Kalkulasi Jumlah Bangunan desa
+      *   Kalkulasi Ketinggian Desa
+      *   Peta Klasifikasi
+      *   Transformasi Data
+      *   Normalisasi Data
 *   Uji Hipotesis
 *   Model Support Vector Machine
 *   Evaluasi Model
+      *   MSE
+      *   MAE
+      *   RMSE
+      *   R-Squared
 *   Korelasi Pearson actual dan predicted dari model
 *   analisis model
