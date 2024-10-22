@@ -1,14 +1,10 @@
-![ww](https://github.com/user-attachments/assets/404d789d-dc1b-49b3-9915-09479a5ccb90)
-
-
-
 
 # Pemodelan-Citra-Malam-untuk-Estimasi-Indeks-Kesulitan-Geografis-IKG-di-Kabupaten-Lampung-Selatan
 
 
 Tujuan: Memodelkan Nilai Estimasi Indeks Kesulitan Geografis (IKG) desa di Lampung Selatan tahun 2021
 
-Metode: Machine Learning (Supprot Vector Machine)
+Metode: Machine Learning (Support Vector Machine)
 
 Tools: Python (Google Collab) integratation Google Earth Engine(GEE)
 
