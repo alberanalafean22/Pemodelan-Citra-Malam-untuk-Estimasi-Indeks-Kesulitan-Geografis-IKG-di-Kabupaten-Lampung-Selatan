@@ -6,7 +6,7 @@ Tujuan: Memodelkan Nilai Estimasi Indeks Kesulitan Geografis (IKG) desa di Lampu
 
 Metode: Machine Learning (Support Vector Machine)
 
-Tools: Python (Google Collab) integratation Google Earth Engine(GEE)
+Tools: Python (Google Collab) integration Google Earth Engine(GEE)
 
 Sumber Data : 
 
