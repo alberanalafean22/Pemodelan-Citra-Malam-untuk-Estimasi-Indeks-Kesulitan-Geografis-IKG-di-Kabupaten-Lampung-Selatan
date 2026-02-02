@@ -1,5 +1,6 @@
 
 # Pemodelan-Citra-Malam-untuk-Estimasi-Indeks-Kesulitan-Geografis-IKG-di-Kabupaten-Lampung-Selatan
+<img width="686" height="369" alt="image" src="https://github.com/user-attachments/assets/00fd0747-4f54-4a14-b27c-938fddac4389" />
 
 
 Tujuan: Memodelkan Nilai Estimasi Indeks Kesulitan Geografis (IKG) desa di Lampung Selatan tahun 2021
